@@ -1,6 +1,6 @@
 PREFIX = /usr/local
 
-LDFLAGS = -lreadline -ltermcap
+LDFLAGS = -lreadline
 
 repl: repl.c
 
